@@ -1,10 +1,5 @@
 # Hello 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imjuanleonard&count_private=true&show_icons=true&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjuanleonard&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="center">
   <a href= "https://www.linkedin.com/in/imjuanleonard/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
@@ -28,3 +23,10 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imjuanleonard&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuanleonard&layout=compact&hide=javascript,html" />
+</a>
