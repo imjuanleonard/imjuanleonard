@@ -6,9 +6,6 @@
 
 
 <p align="center">
-  <a href= "https://github.com/imjuanleonard/">
-    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
-  </a>
   <a href= "https://www.linkedin.com/in/imjuanleonard/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
