@@ -12,7 +12,7 @@
   <a href= "https://twitter.com/imjuanleonard">
     <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
   </a>
-  <a href= "https://www.imjuanleonard.com">
+  <a href= "https://imjuanleonard.com">
     <img src="https://img.icons8.com/material-outlined/30/000000/geography.png"/>
   </a>
   <a href="https://www.buymeacoffee.com/imjuanleonard">
