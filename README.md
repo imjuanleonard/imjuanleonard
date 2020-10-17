@@ -5,22 +5,25 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/imjuanleonard">
-    <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
-  </a>
-  <a href= "https://imjuanleonard.com">
-    <img src="https://img.icons8.com/material-outlined/30/000000/geography.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/imjuanleonard">
-    <img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/>
-  </a>
-  <a href="mailto:imjuanleonard@impacteam.org">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/>
   </a>
   <a href="https://medium.com/@imjuanleonard">
-    <img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/>
+    <img src="https://img.icons8.com/bubbles/100/000000/medium-new.png"/>
+  </a>
+  <a href= "https://imjuanleonard.com">
+    <img src="https://img.icons8.com/bubbles/100/000000/launchpad.png"/>
+  </a>
+  <a href="mailto:imjuanleonard@impacteam.org">
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail.png"/>
   </a>
   <a href="https://stackoverflow.com/users/6228750/imjuanleonard">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
+    <img src="https://img.icons8.com/bubbles/100/000000/stack.png"/>
+  </a>
+  <a href="https://www.instagram.com/imjuanleonard/">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/imjuanleonard">
+    <img src="https://img.icons8.com/bubbles/100/000000/cafe.png"/>
   </a>
 </p>
 
