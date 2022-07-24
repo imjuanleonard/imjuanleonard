@@ -4,9 +4,6 @@
   <a href= "https://www.linkedin.com/in/imjuanleonard/">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
   </a>
-  <a href= "https://twitter.com/imjuanleonard">
-    <img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/>
-  </a>
   <a href="https://medium.com/@imjuanleonard">
     <img src="https://img.icons8.com/bubbles/100/000000/medium-new.png"/>
   </a>
