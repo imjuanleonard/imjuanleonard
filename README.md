@@ -10,9 +10,6 @@
   <a href= "https://imjuanleonard.com">
     <img src="https://img.icons8.com/bubbles/100/000000/launchpad.png"/>
   </a>
-  <a href="mailto:imjuanleonard@impacteam.org">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail.png"/>
-  </a>
   <a href="https://stackoverflow.com/users/6228750/imjuanleonard">
     <img src="https://img.icons8.com/bubbles/100/000000/stack.png"/>
   </a>
