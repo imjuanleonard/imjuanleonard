@@ -23,12 +23,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/cafe.png"/>
   </a>
 </p>
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=imjuanleonard&count_private=true&show_icons=true&theme=vue" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuanleonard&layout=compact&hide=javascript,html" />
-  </a>
-</p>
